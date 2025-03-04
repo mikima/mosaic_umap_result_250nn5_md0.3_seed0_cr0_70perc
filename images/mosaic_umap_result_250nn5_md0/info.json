@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 554,
+    "height" : 554
+  }, {
+    "width" : 1108,
+    "height" : 1108
+  }, {
+    "width" : 2215,
+    "height" : 2215
+  }, {
+    "width" : 4430,
+    "height" : 4430
+  }, {
+    "width" : 8859,
+    "height" : 8859
+  }, {
+    "width" : 17717,
+    "height" : 17717
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 17717,
+  "@id" : "https://mikima.github.io/mosaic_umap_result_250nn5_md0.3_seed0_cr0_70perc/images/mosaic_umap_result_250nn5_md0",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 17717
+}
